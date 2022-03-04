@@ -1,18 +1,21 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
-logo: 
+title: NeuroGEARS
+logo: /assets/images/neurogears.svg
 author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+description: Neuroscience, Games, Interaction, Robotics
+email: contact@neurogears.org
+phone: 
+address: 31 Oval Road, London, NW1 7EA, United Kingdom
+copyright: |+ 
+  © 2021 NeuroGEARS Ltd. 
+
+  Website design based on Kross jekyll Creative Portfolio Template (2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com))
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+- {name: About Us, link: '/about'}
+- {name: News, link: '/news'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
@@ -25,7 +28,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: UA-106624760-1
 
 
 #-------------------------------
@@ -38,7 +41,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: <span class="h1black">neurogears</span> is a creative research <br> group bridging <span class="h1color">Neuroscience</span>, <br> <span class="h1color">Games</span>, <span class="h1color">Interaction</span> & <span class="h1color">Robotics</span>.
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,10 +55,10 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  We engage with top research and academic institutions worldwide to reimagine science by using and creating open-source tools which are accessible, understandable and modifiable. Our core mission is to make scientific knowledge available to everyone, and to empower people to follow their curiosity, wherever it may lead.
 
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: learn more
 
 
 # About Page
@@ -75,19 +78,27 @@ work-process:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
-# My Team Section
+# Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+  - title : "Gonçalo Lopes"
+    image : "assets/images/team/glopes.jpg"
+    designation : "Director"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+  - title : "André Almeida"
+    image : "assets/images/team/aalmeida.jpg"
+    designation : "Senior Software Engineer"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+  - title : "Danbee Kim"
+    image : "assets/images/team/dkim.jpg"
+    designation : "Research and Outreach Scientist"
+
+  - title : "Joana Nogueira"
+    image : "assets/images/team/"
+    designation : "Executive Assistant"
+
+  - title : "Bruno Cruz"
+    image : "assets/images/team/bcruz.png"
+    designation : "Software Engineer"
 
 
 #-------------------------------
@@ -293,4 +304,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: contact@neurogears.org
