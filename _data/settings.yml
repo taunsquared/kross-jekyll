@@ -55,7 +55,7 @@ social:
 
 # About Section
 blurb:
-  We engage with top research and academic institutions worldwide to reimagine science by using and creating open-source tools which are accessible, understandable and modifiable. Our core mission is to make scientific knowledge available to everyone, and to empower people to follow their curiosity, wherever it may lead.
+  We engage with top research and academic institutions worldwide <br>to reimagine science by using and creating open-source tools which are <br>accessible, understandable and modifiable. Our core mission is to make <br>scientific knowledge available to everyone, and to empower people <br>to follow their curiosity, wherever it may lead.
 
 blurb-btn-link: '/about'
 blurb-btn-name: learn more
@@ -93,7 +93,7 @@ team:
     designation : "Research and Outreach Scientist"
 
   - title : "Joana Nogueira"
-    image : "assets/images/team/"
+    image : "assets/images/team/missing-team-member-photo.png"
     designation : "Executive Assistant"
 
   - title : "Bruno Cruz"
