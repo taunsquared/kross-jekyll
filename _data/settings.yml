@@ -64,15 +64,15 @@ blurb-btn-name: learn more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "In this first stage, we need to develop a solid understanding of what the experience should be for our clients and their audiences."
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Next, we help our clients shape their long-term vision and identify short-term project goals and strategic objectives. With a shared goal in mind, we can now easily build a map for how to get us there."
     
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "We collaboratively decide on a process for regularly releasing functional prototypes and tracking our progress towards goals. We want to keep our clients in the loop and get their feedback on an ongoing basis throughout the entire project, not just at milestone meetings."
 
 
 # Team Section
@@ -136,22 +136,22 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Integrative Technology Solutions,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: 'Thanks to Bonsai, the open-source visual programming language at the heart of NeuroGEARS, we can offer our services as software and hardware integrators. Our expertise can make it easier to build interactive systems that incorporate a wide range of components that might otherwise be very challenging or impossible to integrate.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
+    name: Interdisciplinary Research and Outreach,
+    icon: ti-vector,
+    description: 'NeuroGEARS brings together experts in building virtual and augmented reality systems, interactive installations, autonomous robots, performing arts, and neuroscience research. As such, we can also offer our services as science researchers and project managers for interdisciplinary collaborations that work in the interstitial space between traditional boundaries of expertise.',
+    active: true # Add true to select section
+  }
+- {
+    name: Educational Activism,
     icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
+    description: 'At NeuroGEARS, we strive to sustain a network of lifelong learners and optimistic activists passionate about improving the way we teach, grow, and create. To this end, we can offer our services as curriculum developers and teachers with expertise in delivering neuroscience topics through formats that centre hands-on exercises, collaborative storytelling, whole-body engagement, and age-inclusive classrooms.',
+    active: true # Add true to select section
   }
 
 
