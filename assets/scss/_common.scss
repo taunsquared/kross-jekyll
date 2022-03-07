@@ -4,8 +4,8 @@ body {
 }
 
 ::selection {
-  background: lighten($color: $primary-color, $amount: 10);
-  color: $white;
+  background: lighten($color: $text-color-dark, $amount: 10);
+  color: $black;
 }
 
 /* preloader */
@@ -53,12 +53,12 @@ select {
 
 a.text-dark{
   &:hover{
-    color: $primary-color !important;
+    color: $text-color-dark !important;
   }
 }
 
 a:hover {
-  color: $primary-color;
+  color: $text-color-dark;
 }
 
 .slick-slide {
@@ -115,7 +115,7 @@ a:hover {
 }
 
 .text-primary {
-  color: $primary-color !important;
+  color: $text-color-dark !important;
 }
 
 .text-color {

@@ -44,9 +44,9 @@ hero:
   hero-title: <span class="h1black">neurogears</span> is a creative research <br> group bridging <span class="h1color">Neuroscience</span>, <br> <span class="h1color">Games</span>, <span class="h1color">Interaction</span> & <span class="h1color">Robotics</span>.
 
 social:
-- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-github", link: "https://github.com/neurogears"}
 - {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
+- {icon: "ti-youtube", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
 
@@ -55,7 +55,7 @@ social:
 
 # About Section
 blurb:
-  We engage with top research and academic institutions worldwide <br>to reimagine science by using and creating open-source tools which are <br>accessible, understandable and modifiable. Our core mission is to make <br>scientific knowledge available to everyone, and to empower people <br>to follow their curiosity, wherever it may lead.
+  We engage with top research and academic <br>institutions worldwide to reimagine science <br>by using and creating open-source tools which <br>are accessible, understandable and modifiable. <br>Our core mission is to make scientific knowledge <br>available to everyone, and to empower people to <br>follow their curiosity, wherever it may lead.
 
 blurb-btn-link: '/about'
 blurb-btn-name: learn more

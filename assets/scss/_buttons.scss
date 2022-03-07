@@ -12,7 +12,7 @@
   transition: .2s ease;
 
   &:focus {
-    outline: 0;
+    outline: 1;
     box-shadow: none !important;
   }
 
@@ -33,7 +33,7 @@
 
 .btn-primary {
   background: $secondary-color;
-  color: $white;
+  color: $black;
 
   &:active {
     background: lighten($color: $text-color, $amount: 10) !important;

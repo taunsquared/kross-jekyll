@@ -15,12 +15,12 @@
 }
 
 .navbar{
-  color: $black;
   .nav-item{
     .nav-link{
       font-family: $secondary-font;
       text-transform: uppercase;
       padding: 15px;
+      color: $black;
     }
     &.active{
       font-weight: bold;
