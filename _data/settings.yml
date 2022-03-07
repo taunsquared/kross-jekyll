@@ -8,10 +8,7 @@ description: Neuroscience, Games, Interaction, Robotics
 email: contact@neurogears.org
 phone: 
 address: 31 Oval Road, London, NW1 7EA, United Kingdom
-copyright: |+ 
-  © 2021 NeuroGEARS Ltd. 
-
-  Website design based on Kross jekyll Creative Portfolio Template (2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com))
+copyright: <span class="pcopyright">© 2021 NeuroGEARS Ltd. <br><br>Website built on Kross jekyll Creative Portfolio Template (2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com))</span>
 
 menu:
 - {name: About Us, link: '/about'}
@@ -303,5 +300,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
+contact-title: Get in touch!
 contact-email: contact@neurogears.org
