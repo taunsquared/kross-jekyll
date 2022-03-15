@@ -2,9 +2,10 @@
 layout: post
 title: "HiveTracker: UbiComp 2019"
 date: 2019-09-12 12:00:00 -0000
-categories: news
 image: /assets/images/news/190912-ubicomp-hivetracker.jpg
 excerpt: Excited to present our latest developments on the HiveTracker project at UbiComp 2019!
+author: Gonçalo Lopes
+tags: VR, open source projects, electronics, conferences
 ---
 
 The [HiveTracker](https://hivetracker.github.io/) is a small & affordable system for scalable and accurate 3D tracking developed over the past two years. It builds off the existing SteamVR tracking system by Valve, Inc. and together with a 9DoF inertial measurement unit (IMU), allows sub-millimetric 3D positioning at scale. We have recently presented our latest cross-platform logging and visualization interface at [UbiComp 2019](http://ubicomp.org/ubicomp2019).

@@ -2,9 +2,10 @@
 layout: post
 title: "Braitenberg Vehicles"
 date: 2018-03-20 12:00:00 -0000
-categories: news
 image: /assets/images/news/180320-braitenberg-osh.jpg
 excerpt: Together with Open Science Hub Portugal, we organized a series of interactive robotics workshops for the Brain Awareness Week, inspired by the work of Valentino Braitenberg.
+author: Gonçalo Lopes
+tags: robotics, open science, science communication, public engagement
 ---
 
 Fascination with the brain often starts with a fascination for understanding behavior, and how the brain of living organisms evolved in relation to their environment. How does the brain generate behavior and how can behavior emerge from physical rules?
