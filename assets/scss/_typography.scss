@@ -18,11 +18,11 @@ p, .paragraph {
   &-lg{
     font-size: 22px;
   }
-}
 
-p, .pcopyright {
-  color: $text-color-light;
-  font-size: 10px;
+  &-copyright {
+    color: $text-color-light;
+    font-size: 10px;
+  }
 }
 
 h1,h2,h3,h4,h5,h6 {
