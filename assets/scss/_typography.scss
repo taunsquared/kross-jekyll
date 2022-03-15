@@ -12,11 +12,11 @@ body {
 p, .paragraph {
   font-weight: 400;
   color: $text-color !important;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.8;
   font-family: $primary-font;
   &-lg{
-    font-size: 22px;
+    font-size: 26px;
   }
 
   &-copyright {
@@ -54,22 +54,22 @@ h2, .h2{
 }
 
 h2, .h2subtitle {
-  font-size: 24;
+  font-size: 28;
   color: $text-color;
 }
 
 h3, .h3{
-  font-size: 35px;
+  font-size: 40px;
 }
 
 h4, .h4{
-  font-size: 22px;
+  font-size: 32px;
 }
 
 h5, .h5{
-  font-size: 18px;
+  font-size: 26px;
 }
 
 h6, .h6{
-  font-size: 14px;
+  font-size: 20px;
 }

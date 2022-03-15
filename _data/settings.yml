@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: We engage with top research and academic <br>institutions worldwide to reimagine science <br>by using and creating open-source tools which <br>are accessible, understandable and modifiable. <br>Our core mission is to make scientific knowledge <br>available to everyone, and to empower people to <br>follow their curiosity, wherever it may lead.
+blurb: We engage with top research and academic institutions worldwide to reimagine science by using and creating open-source tools which are accessible, understandable and modifiable. Our core mission is to make scientific knowledge available to everyone, and to empower people to follow their curiosity, wherever it may lead.
 
 blurb-btn-link: "/about"
 blurb-btn-name: learn more
@@ -97,9 +97,9 @@ team:
 services-title: Services
 services:
   - {
-      name: Open Source Research and Development,
+      name: Open Source Research <br/>and Development,
       icon: ti-mouse,
-      description: "NeuroGEARS employs the core team behind the reactive visual programming language Bonsai, which now powers thousands of experiments around the world. Bonsai is at the centre of a vibrant and growing ecosystem of hardware and software projects in Neuroscience, including Open-Ephys, DeepLabCut, Miniscope, Harp, and Neurophotometrics.",
+      description: "NeuroGEARS employs the core team behind the open source reactive visual programming language <a href='https://bonsai-rx.org/'>Bonsai</a>, which now powers thousands of experiments around the world. Bonsai is at the centre of a vibrant and growing ecosystem of hardware and software projects in Neuroscience, including Open-Ephys, DeepLabCut, Miniscope, Harp, and Neurophotometrics. ",
       active: true, # Add true to select section
     }
   - {
@@ -109,15 +109,15 @@ services:
       active: true, # Add true to select section
     }
   - {
-      name: Interdisciplinary Research and Outreach,
+      name: Interdisciplinary Research <br/>and Outreach,
       icon: ti-vector,
-      description: "NeuroGEARS brings together experts in building virtual and augmented reality systems, interactive installations, autonomous robots, performing arts, and neuroscience research. As such, we can also offer our services as science researchers and project managers for interdisciplinary collaborations that work in the interstitial space between traditional boundaries of expertise.",
+      description: "NeuroGEARS brings together experts in building virtual and augmented reality systems, interactive installations, autonomous robots, performing arts, and neuroscience research. Our current mission focuses on sustainably funding collaborations that explore methods for field neuroscience with academics, professional artists, and activist communities.",
       active: true, # Add true to select section
     }
   - {
       name: Educational Activism,
       icon: ti-panel,
-      description: "At NeuroGEARS, we strive to sustain a network of lifelong learners and optimistic activists passionate about improving the way we teach, grow, and create. To this end, we can offer our services as curriculum developers and teachers with expertise in delivering neuroscience topics through formats that centre hands-on exercises, collaborative storytelling, whole-body engagement, and age-inclusive classrooms.",
+      description: "At NeuroGEARS, we strive to sustain a network of lifelong learners and optimistic activists passionate about improving the way we teach, grow, and create. To this end, we can offer our services as curriculum developers and teachers with expertise in delivering neuroscience topics through formats that centre a 'hands-on minds-on' approach, collaborative storytelling, whole-body engagement, and age-inclusive classrooms.",
       active: true, # Add true to select section
     }
 
