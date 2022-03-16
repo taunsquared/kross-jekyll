@@ -143,59 +143,33 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "EXHIBITS/INSTALLATIONS", type: "exhibits" }
+  - { title: "OUTREACH", type: "education, outreach" }
+  - { title: "PERFORMING ARTS", type: "performing arts" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "/assets/images/portfolio/neuro-vr.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "exhibits"
+      - type: "installations"
+
+  - image: "/assets/images/portfolio/emergence-ar.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "education"
+      - type: "outreach"
+
+  - image: "assets/images/portfolio/ponto-txt.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+
+  - image: "assets/images/portfolio/project-navi.jpg"
     url: "#"
     portfolio-type:
       - type: "design"
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
       - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
