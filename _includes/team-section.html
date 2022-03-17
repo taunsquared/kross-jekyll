@@ -8,8 +8,9 @@
       </div>
       {% for team-member in site.data.settings.team %}
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
-        <div class="card text-center">
+        <div class="card bio text-center">
           <img src="{{ team-member.image | relative_url }}" class="card-img-top">
+          <p>{{ team-member.bio }}</p>
           <div class="card-body">
             <h4 class="card-title">{{ team-member.title }}</h4>
             <p class="text-light font-secondary">{{ team-member.designation }}</p>

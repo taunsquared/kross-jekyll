@@ -276,3 +276,28 @@ textarea.form-control {
   }
 }
 /* /card */
+
+/* /bio-card */
+.bio {
+  display: grid;
+  &:hover img {
+    transform: translateY(-100%);
+  }
+  & img {
+    grid-area: 1/1/2/2;
+    transition: transform 250ms;
+    margin-top: 16px;
+    z-index: 1;
+  }
+  overflow: hidden;
+  margin-top: 15px;
+  & p {
+    grid-area: 1/1/2/2;
+    color: $text-color-dark;
+    font-size: 14px;
+    line-height: 1.4;
+    margin-top: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
