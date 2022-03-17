@@ -56,13 +56,13 @@ blurb-btn-name: learn more
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "Design"
     icon: "assets/images/icons/plan.png"
-    content: "In this first stage, we need to develop a solid understanding of what the experience should be for our clients and their audiences."
+    content: "In this first stage, we develop a solid understanding of what the experience should be for our clients and their audiences. Initial concepts are assessed through brain-/body-storming and visually impactful storyboards."
 
-  - title: "Design and Develop"
+  - title: "Develop"
     icon: "assets/images/icons/design.png"
-    content: "Next, we help our clients shape their long-term vision and identify short-term project goals and strategic objectives. With a shared goal in mind, we can now easily build a map for how to get us there."
+    content: "Next, we help our clients shape their long-term vision and identify short-term goals and strategic objectives. A detailed assessment, including project milestones, budget, and key stakeholders, determines how these ideas can become reality. With a shared destination in mind, we can now easily build a map for how to get us there."
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
