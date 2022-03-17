@@ -40,9 +40,8 @@ hero:
 
 social:
   - { icon: "ti-github", link: "https://github.com/neurogears" }
-  - { icon: "ti-instagram", link: "#" }
   - { icon: "ti-youtube", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-twitter", link: "https://twitter.com/neurogears" }
 
 #-------------------------------
 # About (Section and Page)
