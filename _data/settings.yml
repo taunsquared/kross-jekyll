@@ -58,15 +58,15 @@ blurb-btn-name: learn more
 work-process:
   - title: "Design"
     icon: "assets/images/icons/plan.png"
-    content: "In this first stage, we develop a solid understanding of what the experience should be for our clients and their audiences. Initial concepts are assessed through brain-/body-storming and visually impactful storyboards."
+    content: "In this first stage, we develop a solid understanding of what the experience should be for our collaborators and their audiences. Initial concepts are assessed through brain-/body-storming and visually impactful storyboards."
 
   - title: "Develop"
     icon: "assets/images/icons/design.png"
-    content: "Next, we help our clients shape their long-term vision and identify short-term goals and strategic objectives. A detailed assessment, including project milestones, budget, and key stakeholders, determines how these ideas can become reality. With a shared destination in mind, we can now easily build a map for how to get us there."
+    content: "Next, we help our collaborators shape their long-term vision and identify short-term goals and strategic objectives. A detailed assessment, including project milestones, budget, and key stakeholders, determines how these ideas can become reality. With a shared destination in mind, we can now easily build a map for how to get us there."
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
-    content: "We collaboratively decide on a process for regularly releasing functional prototypes and tracking our progress towards goals. We want to keep our clients in the loop and get their feedback on an ongoing basis throughout the entire project, not just at milestone meetings."
+    content: "We collaboratively decide on a process for regularly releasing functional prototypes and tracking our progress towards goals. We want to keep our collaborators in the loop and get their feedback on an ongoing basis throughout the entire project, not just at milestone meetings."
 
 # Team Section
 team:
@@ -177,49 +177,49 @@ portfolio-items:
 
 testimonial-items:
   - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/testimonial/collaborator-1.png"
     designation: "CEO, Funder"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
   - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/testimonial/collaborator-1.png"
     designation: "CEO, Funder"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
   - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/testimonial/collaborator-1.png"
     designation: "CEO, Funder"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
-# Client Slider Section
+# Collaborator Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/artica.svg"
+collaborator-slider-items:
+  - logo: "assets/images/collaborators-logo/artica.svg"
     url: "#"
 
-  - logo: "assets/images/clients-logo/pca.svg"
+  - logo: "assets/images/collaborators-logo/pca.svg"
     url: "#"
 
-  - logo: "assets/images/clients-logo/SWClogo.png"
+  - logo: "assets/images/collaborators-logo/SWClogo.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/artica.svg"
+  - logo: "assets/images/collaborators-logo/artica.svg"
     url: "#"
 
-  - logo: "assets/images/clients-logo/pca.svg"
+  - logo: "assets/images/collaborators-logo/pca.svg"
     url: "#"
 
-  - logo: "assets/images/clients-logo/SWClogo.png"
+  - logo: "assets/images/collaborators-logo/SWClogo.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/artica.svg"
+  - logo: "assets/images/collaborators-logo/artica.svg"
     url: "#"
 
-  - logo: "assets/images/clients-logo/pca.svg"
+  - logo: "assets/images/collaborators-logo/pca.svg"
     url: "#"
 
-  - logo: "assets/images/clients-logo/SWClogo.png"
+  - logo: "assets/images/collaborators-logo/SWClogo.png"
     url: "#"
 
 #-------------------------------

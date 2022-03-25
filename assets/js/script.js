@@ -60,8 +60,8 @@
 
         parallaxBox.onmousemove = function (event) {
             event = event || window.event;
-            var x = event.clientX - parallaxBox.offsetLeft,
-                y = event.clientY - parallaxBox.offsetTop;
+            var x = event.collaboratorX - parallaxBox.offsetLeft,
+                y = event.collaboratorY - parallaxBox.offsetTop;
 
             /*  mouseParallax('l1', c1left, c1top, x, y, 5); */
             mouseParallax('l2', c2left, c2top, x, y, 25);
@@ -97,8 +97,8 @@
     });
 
 
-    // clients logo slider
-    $('.client-logo-slider').slick({
+    // collaborators logo slider
+    $('.collaborator-logo-slider').slick({
         infinite: true,
         slidesToShow: 5,
         slidesToScroll: 1,
