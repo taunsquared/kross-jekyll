@@ -115,7 +115,7 @@ services:
       active: true, # Add true to select section
     }
   - {
-      name: Integrative Technology Solutions,
+      name: Integrated Technology Solutions,
       icon: ti-palette,
       description: "Thanks to Bonsai, the open-source visual programming language at the heart of NeuroGEARS, we can offer our services as software and hardware integrators. Our expertise can make it easier to build interactive systems that incorporate a wide range of components that might otherwise be very challenging or impossible to integrate.",
       active: true, # Add true to select section
@@ -127,7 +127,7 @@ services:
       active: true, # Add true to select section
     }
   - {
-      name: Educational Activism,
+      name: Re-imagining Education,
       icon: ti-panel,
       description: "At NeuroGEARS, we strive to sustain a network of lifelong learners and optimistic activists passionate about improving the way we teach, grow, and create. To this end, we can offer our services as curriculum developers and teachers with expertise in delivering neuroscience topics through formats that centre a 'hands-on minds-on' approach, collaborative storytelling, whole-body engagement, and age-inclusive classrooms.",
       active: true, # Add true to select section
