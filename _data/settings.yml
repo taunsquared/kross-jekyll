@@ -58,11 +58,11 @@ blurb-btn-name: learn more
 work-process:
   - title: "Design"
     icon: "assets/images/icons/plan.png"
-    content: "In this first stage, we develop a solid understanding of what the experience should be for our collaborators and their audiences. Initial concepts are assessed through brain-/body-storming and visually impactful storyboards."
+    content: "We first develop a solid understanding of what the experience should be for our collaborators and their audiences. Initial concepts are assessed through multi-modal brainstorming and visually impactful storyboards."
 
   - title: "Develop"
     icon: "assets/images/icons/design.png"
-    content: "Next, we help our collaborators shape their long-term vision and identify short-term goals and strategic objectives. A detailed assessment, including project milestones, budget, and key stakeholders, determines how these ideas can become reality. With a shared destination in mind, we can now easily build a map for how to get us there."
+    content: "Next, we help our collaborators shape their long-term vision and identify short-term strategic objectives. A detailed assessment, including project milestones, budget, and key stakeholders, determines how these ideas can become reality."
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
@@ -73,33 +73,37 @@ team:
   - title: "Gonçalo Lopes"
     image: "assets/images/team/glopes.jpg"
     designation: "Director<br/><br/>"
-    bio: Gonçalo (he/him) is a software engineer turned neuroscientist, fascinated by the behaviour of intelligent systems. Along the way, he extended his experience for making interactive systems to rodents and other animal models. Gonçalo developed the Bonsai visual programming language as a way to rapidly prototype interactive neuroscience experiments.
-
-  - title: "André Almeida"
-    image: "assets/images/team/aalmeida.jpg"
-    designation: "Senior Software Engineer<br/><br/>"
-    bio: André (he/him) is a software engineer specializing in Arts and Technology using Mixed Reality, Multimedia, Robotics, Physical Computing and Interactive Systems. André likes human relationships involving everyone in agile development cycles and working together towards a functional, professional and affordable solution under realistic development timelines.
-
-  - title: "Danbee Kim"
-    image: "assets/images/team/dkim.jpg"
-    designation: "Research and Outreach Scientist"
-    bio: Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientist and teacher with extensive experience with musical theater, multi-age classrooms, and interdisciplinary collaborations. Danbee’s current focus is developing a framework for precisely observing nervous systems in ecologically relevant settings, aka “field neuroscience”. To learn more, you can visit <a href="http://www.danbeekim.org/">www.danbeekim.org</a>.
+    bio: Gonçalo (he/him) is a software engineer turned neuroscientist, fascinated by the behaviour of intelligent systems. With a background of applied research in virtual and augmented reality, parallel processing and autonomous agents, he joined the Champalimaud Neuroscience Programme in 2010, hoping to find better ways of building machines that learn by themselves. Gonçalo completed his PhD with Adam Kampff and Joe Paton, trying to understand the role of motor cortex in the control of movement in non-primate mammals. <br/><br/>Along the way, he extended his experience for making interactive systems to rodents and other animal models. Gonçalo developed the Bonsai visual programming language as a way to rapidly prototype interactive neuroscience experiments.
 
   - title: "Joana Nogueira"
     image: "assets/images/team/missing-team-member-photo.png"
     designation: "Executive Assistant" 
     bio: Missing Bio!
 
+  - title: "André Almeida"
+    image: "assets/images/team/aalmeida.jpg"
+    designation: "Senior Software Engineer<br/><br/>"
+    bio: André (he/him) is a software engineer that specialized in Arts and Technology using Mixed Reality, Multimedia, Robotics, Physical Computing and Interactive Systems. Is fascinated by technological creativity. Back in 2004 started working in Ylabs research division of YDreams then became an expert in the creation of interactive systems and Augmented Reality. In 2011 he created Artica Creative Computing. Artica works on Human Computer Interaction, Electronics, Game Design, Creative Design AR & VR, Video Projection & Mapping, Physical Computing, Robotics, Digital Fabrication, Prototyping, Education and all things creative. <br/><br/>André likes human relationships involving everyone in agile development cycles and working together to a working, professional and affordable solution under realistic development timelines.
+
+  - title: "Danbee Kim"
+    image: "assets/images/team/dkim.jpg"
+    designation: "Research and Outreach Scientist"
+    bio: Dr. Danbee “Tauntaun” Kim (she/her/they/them) is a Korean-American neuroscientist and teacher who earned her BSc in Brain and Cognitive Sciences from MIT, where they also spent 10 years acting, directing, choreographing, costuming, and writing original content for the MIT Musical Theater Guild. While completing her PhD with Adam Kampff at the Champalimaud Neuroscience Program, Danbee authored of a graphic novel version of their doctoral dissertation called <i>The First VIRS</i>. <br/><br/>Danbee’s current focus is developing a framework for precisely observing nervous systems in ecologically relevant settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit <a href="http://www.danbeekim.org/">www.danbeekim.org</a>.
+
   - title: "Bruno Cruz"
     image: "assets/images/team/bcruz.png"
     designation: "Software Engineer"
-    bio: Bruno (he/him) is a neuroscientist who enjoys tinkering and engineering. While completing his PhD in Systems Neuroscience, Bruno also developed an interest for teaching and quick-paced prototyping of experiments. He hopes to put such skills to good use while finding new challenges at NeuroGEARS.
+    bio: Bruno (he/him) is a neuroscientist who enjoys tinkering and engineering. As an undergrad, he studied Biochemistry and Molecular & Cellular Neuroscience. Not satisfied with the gap between molecular neuroscience and animal behavior, he moved to Lisbon to pursue a PhD in Systems Neuroscience with Joe Paton. There he studied the role of basal ganglia circuits in the production and suppression of action, and gained experience with animal behavior experiments, neurophysiological recordings, optogenetics, and data analysis. <br/><br/>While completing his PhD, Bruno also developed an interest for teaching and quick-paced prototyping of experiments. He hopes to put such skills to good use while finding new challenges at NeuroGEARS.
 
   - title: "Filipe Carvalho"
     image: "assets/images/team/missing-team-member-photo.png"
     designation: "Hardware Engineer"
     bio: Missing Bio!
 
+  - title: "Andrew Erskine"
+    image: "assets/images/team/aerskine.png"
+    designation: "Senior Software Engineer"
+    bio: Andrew (he/him) is a neuroscientist and software engineer passionate about advancing technologies for research, data science and games. As a PhD student at the Francis Crick Institute he worked on olfactory behaviour in mice, developing the AutonoMouse system for automated, high-throughput behavioural experiments. In his postdoc at the University of Southern California he studied somatosensory processing using head-fixed behaviour, 2-photon imaging, 3D holographic optogenetic stimulation and machine-learning approaches to understand information transfer between cortical layers. <br/><br/>During his research career Andrew has also worked on a wide range of software projects spanning topics such as game AI, multiplayer network architecture and cloud-based solutions for large-scale data analysis.
 # Collaborators Section
 
 
@@ -139,96 +143,83 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/neuro-vr.jpg"
-    url: "#"
+    url: "https://youtu.be/mJDV07ptQFk"
 
   - image: "assets/images/portfolio/emergence-ar.jpg"
-    url: "#"
+    url: "https://youtu.be/7ohPpPDZhRc"
 
   - image: "assets/images/portfolio/ponto-txt.jpg"
-    url: "#"
+    url: "https://youtu.be/jKB0d9vsfgA"
 
   - image: "assets/images/portfolio/project-navi.jpg"
     url: "#"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "EXHIBITS/INSTALLATIONS", type: "exhibits" }
-  - { title: "OUTREACH", type: "education, outreach" }
-  - { title: "PERFORMING ARTS", type: "performing arts" }
+  - { title: "RESEARCH", type: "research" }
+  - { title: "OUTREACH", type: "outreach" }
 
 portfolio-items:
-  - image: "/assets/images/portfolio/neuro-vr.jpg"
-    url: "#"
+  - image: "assets/images/portfolio/neuro-vr.jpg"
+    url: "https://youtu.be/mJDV07ptQFk"
     portfolio-type:
-      - type: "exhibits"
-      - type: "installations"
+      - type: "research"
 
-  - image: "/assets/images/portfolio/emergence-ar.jpg"
-    url: "#"
+  - image: "assets/images/portfolio/emergence-ar.jpg"
+    url: "https://youtu.be/7ohPpPDZhRc"
     portfolio-type:
-      - type: "education"
       - type: "outreach"
 
   - image: "assets/images/portfolio/ponto-txt.jpg"
-    url: "#"
+    url: "https://youtu.be/jKB0d9vsfgA"
     portfolio-type:
-      - type: "illustration"
+      - type: "outreach"
 
   - image: "assets/images/portfolio/project-navi.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "research"
 
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/collaborator-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+# testimonial-items:
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/collaborator-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/collaborator-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/collaborator-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/collaborator-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/collaborator-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Collaborator Slider Section
 
 collaborator-slider-items:
-  - logo: "assets/images/collaborators-logo/artica.svg"
-    url: "#"
-
   - logo: "assets/images/collaborators-logo/pca.svg"
-    url: "#"
+    url: "https://www.plataforma.edu.pt/"
 
   - logo: "assets/images/collaborators-logo/SWClogo.png"
-    url: "#"
+    url: "https://www.sainsburywellcome.org/web/"
 
-  - logo: "assets/images/collaborators-logo/artica.svg"
-    url: "#"
-
-  - logo: "assets/images/collaborators-logo/pca.svg"
-    url: "#"
-
-  - logo: "assets/images/collaborators-logo/SWClogo.png"
-    url: "#"
-
-  - logo: "assets/images/collaborators-logo/artica.svg"
-    url: "#"
+  - logo: "assets/images/collaborators-logo/logo_background-horiz_blue.png"
+    url: "https://emotionalcities-h2020.eu/"
 
   - logo: "assets/images/collaborators-logo/pca.svg"
-    url: "#"
+    url: "https://www.plataforma.edu.pt/"
 
   - logo: "assets/images/collaborators-logo/SWClogo.png"
-    url: "#"
+    url: "https://www.sainsburywellcome.org/web/"
+
+  - logo: "assets/images/collaborators-logo/logo_background-horiz_blue.png"
+    url: "https://emotionalcities-h2020.eu/"
 
 #-------------------------------
 # Contact Section

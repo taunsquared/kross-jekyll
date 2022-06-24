@@ -7,7 +7,7 @@
         <h2 class="section-title">The Team</h2>
       </div>
       {% for team-member in site.data.settings.team %}
-      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+      <div class="col-md-6 col-sm-12 mb-4 mb-md-0">
         <div class="card bio text-center">
           <img src="{{ team-member.image | relative_url }}" class="card-img-top">
           <p>{{ team-member.bio }}</p>
