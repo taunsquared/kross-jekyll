@@ -57,15 +57,15 @@ blurb-btn-name: learn more
 # Work Process Section
 work-process:
   - title: "Design"
-    icon: "assets/images/icons/plan.png"
+    icon: "assets/images/icons/v0_Design.svg"
     content: "We first develop a solid understanding of what the experience should be for our collaborators and their audiences. Initial concepts are assessed through multi-modal brainstorming and visually impactful storyboards."
 
   - title: "Develop"
-    icon: "assets/images/icons/design.png"
+    icon: "assets/images/icons/v0_Develop.svg"
     content: "Next, we help our collaborators shape their long-term vision and identify short-term strategic objectives. A detailed assessment, including project milestones, budget, and key stakeholders, determines how these ideas can become reality."
 
   - title: "Deliver"
-    icon: "assets/images/icons/print.png"
+    icon: "assets/images/icons/v0_Deliver.svg"
     content: "We collaboratively decide on a process for regularly releasing functional prototypes and tracking our progress towards goals. We want to keep our collaborators in the loop and get their feedback on an ongoing basis throughout the entire project, not just at milestone meetings."
 
 # Team Section
@@ -77,7 +77,7 @@ team:
 
   - title: "Joana Nogueira"
     image: "assets/images/team/missing-team-member-photo.png"
-    designation: "Executive Assistant" 
+    designation: "Executive Assistant"
     bio: Missing Bio!
 
   - title: "André Almeida"
@@ -107,7 +107,6 @@ team:
 
 # Collaborators Section
 
-
 #-------------------------------
 # Services Section
 
@@ -115,25 +114,25 @@ services-title: Services
 services:
   - {
       name: Open Source Research <br/>and Development,
-      icon: ti-mouse,
+      icon: "assets/images/icons/v0_OpenSource.svg",
       description: "NeuroGEARS employs the core team behind the open source reactive visual programming language <a href='https://bonsai-rx.org/'>Bonsai</a>, which now powers thousands of experiments around the world. Bonsai is at the centre of a vibrant and growing ecosystem of hardware and software projects in Neuroscience, including Open-Ephys, DeepLabCut, Miniscope, Harp, and Neurophotometrics. ",
       active: true, # Add true to select section
     }
   - {
       name: Integrated Technology Solutions,
-      icon: ti-palette,
+      icon: "assets/images/icons/v0_Integrative.svg",
       description: "Thanks to Bonsai, the open-source visual programming language at the heart of NeuroGEARS, we can offer our services as software and hardware integrators. Our expertise can make it easier to build interactive systems that incorporate a wide range of components that might otherwise be very challenging or impossible to integrate.",
       active: true, # Add true to select section
     }
   - {
       name: Interdisciplinary Research <br/>and Outreach,
-      icon: ti-vector,
+      icon: "assets/images/icons/v0_Outreach.svg",
       description: "NeuroGEARS brings together experts in building virtual and augmented reality systems, interactive installations, autonomous robots, performing arts, and neuroscience research. Our current mission focuses on sustainably funding collaborations that explore methods for field neuroscience with academics, professional artists, and activist communities.",
       active: true, # Add true to select section
     }
   - {
       name: Re-imagining Education,
-      icon: ti-panel,
+      icon: "assets/images/icons/v0_Education.svg",
       description: "At NeuroGEARS, we strive to sustain a network of lifelong learners and optimistic activists passionate about improving the way we teach, grow, and create. To this end, we can offer our services as curriculum developers and teachers with expertise in delivering neuroscience topics through formats that centre a 'hands-on minds-on' approach, collaborative storytelling, whole-body engagement, and age-inclusive classrooms.",
       active: true, # Add true to select section
     }
