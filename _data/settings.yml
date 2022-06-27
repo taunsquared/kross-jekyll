@@ -9,7 +9,7 @@ description: Neuroscience, Games, Interaction, Robotics
 email: contact@neurogears.org
 phone:
 location: NeuroGEARS Ltd is a limited company registered in England and Wales. <br/>31 Oval Road, London, NW1 7EA, United Kingdom <br/>Company Registration No. 10773335
-copyright: <span class="paragraph-copyright">© 2021 NeuroGEARS Ltd. <br/><br/>Website built on Kross jekyll Creative Portfolio Template (2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com))</span>
+copyright: <span class="paragraph-copyright">© 2021 NeuroGEARS Ltd. <br/>Web design and development by Danbee Kim <br/>This website is built on the Kross jekyll Creative Portfolio Template (2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com))</span>
 
 menu:
   - { name: News, link: "/news" }
